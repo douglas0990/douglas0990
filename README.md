@@ -2,7 +2,7 @@
 
 - Meu nome é Douglas Samuel
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](htts://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 -  Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +12,5 @@ leal.douglas@escola.pr.gov.br
 
 @Silva_douglas
 
-![]()
-https://media.tenor.com/ClksFHiwnNsAAAAS/jotaro-jotaro-kujo.gif
+![](https://media.tenor.com/ClksFHiwnNsAAAAS/jotaro-jotaro-kujo.gif)
+
